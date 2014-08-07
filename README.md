@@ -1,4 +1,4 @@
 ExploratoryDataAnalysis
 =======================
 
-This is the personal repositiry of the course
+This is the personal repository of the Coursera's course "Exploratory Data Analysis".
